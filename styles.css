@@ -1,0 +1,40 @@
+* {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+body,
+html,
+main {
+  height: 100%;
+}
+.banner {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  width: 500px;
+  border: 2px solid black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 10px;
+  font-weight: 100;
+}
+
+#heading {
+  font-size: 40px;
+}
+span {
+  font-weight: 100;
+  opacity: 0.5;
+  font-style: italic;
+  font-weight: 500;
+}
+table {
+  align-items: center;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.mytable {
+  width: 500px;
+}
